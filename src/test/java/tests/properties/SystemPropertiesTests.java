@@ -62,5 +62,5 @@ public class SystemPropertiesTests {
         System.out.println("I want to say: " + System.getProperty("someText"));
     }
 
-    
+
 }
