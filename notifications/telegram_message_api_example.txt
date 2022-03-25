@@ -13,8 +13,8 @@ https://api.telegram.org/bot5199334865:AAEXc-iaDLzGx9-N8tgQ75Pg-11uO0651XQ/getUp
 // Command in one line
 curl -X POST -H 'Content-Type: application/json' -d '{"chat_id": "-1001595433835", "text": "This is a test from qa.guru"}' https://api.telegram.org/bot5199334865:AAEXc-iaDLzGx9-N8tgQ75Pg-11uO0651XQ/sendMessage
 
-// unverified link
-curl -X POST -H 'Content-Type: application/json' -d '{"chat_id": "47436725", "text": "This is a test from qa.guru"}' https://api.telegram.org/bot5266020589:AAFfjmkxZuxYCUyQLoDHaNO4MxGn0uGg4jc/sendMessage
+// private message
+curl -X POST -H 'Content-Type: application/json' -d '{"chat_id": "1531560565", "text": "This is a test from qa.guru"}' https://api.telegram.org/bot5199334865:AAEXc-iaDLzGx9-N8tgQ75Pg-11uO0651XQ/sendMessage
 
 
 
